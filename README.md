@@ -1,7 +1,7 @@
 # linux-active-intrusion-investigation
 Investigação de Invasor Ativo e Reverse Shell em Linux
 
-Conteúdo estudado
+Topics Covered
 - análise de logs SSH
 - brute force
 - escalada de privilégio
@@ -11,15 +11,15 @@ Conteúdo estudado
 - pstree
 - netcat
 
-Ferramentas utilizadas (bash)
-- journalctl
-- ss
-- ps
-- pstree
-- lsof
-- nc
-
-Conceitos
+Tools & Commands Used
+- journalctl → análise de logs
+- ss → investigação de conexões TCP
+- ps aux → análise de processos ativos
+- pstree → relação hierárquica entre processos
+- lsof → análise de arquivos e conexões abertas
+- netcat (nc) → simulação de conexão/reverse shell
+  
+Key Learnings
 - diferença entre SSH e reverse shell
 - LISTEN vs ESTAB
 - relação entre processos
