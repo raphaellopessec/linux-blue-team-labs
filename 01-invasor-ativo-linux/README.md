@@ -25,3 +25,4 @@ Key Learnings
 - relação entre processos
 - investigação de invasor ativo
 - processo legítimo vs uso malicioso
+- SOC
