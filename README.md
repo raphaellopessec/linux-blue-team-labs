@@ -1,4 +1,5 @@
 Linux Blue Team Labs
+
 Sobre o Projeto
 
 Este repositório foi criado para documentar minha jornada de aprendizado em Cybersecurity com foco em Blue Team, SOC e investigação de incidentes em ambientes Linux.
